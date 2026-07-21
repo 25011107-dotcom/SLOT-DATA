@@ -1,0 +1,486 @@
+{
+  "slots": [
+   
+    {
+      "id": "1",
+      "name": "真打 吉宗",
+      "maker": "大都技研",
+      "type": "スマスロ (AT機)",
+      "net_increase": "約2.7枚",
+      "kikaiwari":"97.8%～114.0%",
+      "image_url": "",
+      "features": "\n●通常時はレア役や規定周期到達でCZに当選\n●CZ「悪人成敗チャンス」は成功期待度約55%で、成功すればATへ\n●AT「勧善懲悪ラッシュ」は純増約2.7枚、初期枚数150枚の差枚数管理\n●AT中は40G消化ごとの周期抽選とレア役で上乗せや対決を抽選\n●対決勝利時は特化ゾーン当選の可能性あり\n●特化ゾーンの「真高確率」中は差枚数上乗せに加え、青7揃いも抽選\n●青7揃い確率は1/168で、成立すれば真BIGボーナス濃厚\n●真BIGボーナスは獲得枚数2000枚!? さらに約50%でループと超強力！●青7揃いの一部で突入する「究極鷹ブレイク」は本機最強の出玉トリガー!!"
+    },
+    {
+      "id": "2",
+      "name": "スマスロモンキーターンV",
+      "maker": "山佐",
+      "type": "スマスロ (AT機)",
+      "net_increase": "約2.5枚～約4.0枚",
+      "kikaiwari":"97.9% 〜 114.9%",
+      "image_url":"./imges/2.webp",
+      "features": "伝統の周期抽選とシナリオ管理型ATを継承。上位AT「青島SG」も搭載。"
+    },
+    {
+      "id": "3",
+      "name": "Lパチスロ革命機ヴァルヴレイヴ２",
+      "maker": "SANKYO",
+      "type": "スマスロ (AT機)",
+      "net_increase": "約9.0枚",
+      "kikaiwari":"97.7%～114.9%",
+      "image_url": "./imges/3.webp",
+      "features": "\n●純増約9.0枚/Gの高純増×高継続ATで登場\n●通常時は毎ゲーム獲得するポイントが規定数に到達すればCZ以上に当選\n●CZクリア後のボーナスを突破すればAT突入！\n●ATは初期ゲーム数10〜100G以上のセット継続型\n●「革命ラッシュ」は継続期待度約75%で、3回継続できれば上位ATへ昇格\n●上位AT「超革命ラッシュ」の継続率は約90%と破壊力は抜群！"
+    },
+    {
+      "id": "4",
+      "name": "スマスロ 新鬼武者3",
+      "maker": "レオスター",
+      "type": "スマスロ (AT機)",
+      "net_increase": "約2.5枚～5.5枚",
+      "kikaiwari":"97.5% 〜 113.0%",
+      "image_url": "./imges/4.webp",
+      "features": "\n●イマーシブ筐体の第4弾\n●通常時は規定バッサリポイント到達時の抽選がAT当選のメイン契機\n●ポイント特化ゾーン「鬼斬チャージ」からのAT直行もあり\n●AT「蒼剣ラッシュ」は純増約2.5枚で、初期ゲーム数は40G＋α（継続時は30G＋α）\n●レア役での上乗せに加え、特化ゾーンも新たに搭載\n●ATゲーム数消化後は幻魔京バトルで継続ジャッジ\n●継続時の一部で突入する覚醒チャレンジや第10話到達等で突入する秀吉最終決戦クリアで上位ATへ！！\n●上位AT「真蒼剣ラッシュ」は純増約5.5枚/G、継続率89%と超強力"
+    },
+    {
+      "id": "5",
+      "name": "スマスロ 東京リベンジャーズ",
+      "maker": "サミー",
+      "type": "スマスロ (AT機)",
+      "net_increase": "約3.2枚～8.0枚",
+      "kikaiwari":"97.8% 〜 114.9%",
+      "image_url": "./imges/5.webp",
+      "features": "\n●超人気作品「東京リベンジャーズ」とのタイアップ機が登場\n●通常時はポイント契機の周期抽選とレア役契機のCZで初当りを抽選\n●AT「東卍ラッシュ」は純増約3.2枚/Gの差枚数管理型\n●バトル型CZの一触即発勝利で東卍アタックへ突入\n●東卍アタックでは卍目が停止したマスに対応した報酬を獲得\n●リベンジチャンスは上位ATをかけたCZ\n●上位ATは純増約8.0枚で、上乗せ性能もパワーアップ\n●上位AT後は引き戻し期待度約80%の天上天下唯我独尊へ\n●黒い衝動は期待枚数3000枚超を誇る最強特化ゾーン!!"
+    },
+    {
+      "id": "6",
+      "name": "L 東京喰種",
+      "maker": "スパイキー",
+      "type": "スマスロ (AT機)",
+      "net_increase": "約4.0枚",
+      "kikaiwari":"97.5% 〜 114.9%",
+      "image_url": "./imges/6.webp",
+      "features": "\n●大人気作品「東京喰種」がスマスロで登場！\n●通常時はゲーム数消化とレア役でCZを抽選\n●ATは純増4.0枚/Gの差枚数管理型\n●喰種対決勝利で特化ゾーン「BITES」に移行\n●完走orVS有馬成功で有馬貴将ジャッジメント獲得\n●有馬貴将ジャッジメント成功で上乗せ300枚〜2000枚！"
+    },
+    {
+      "id": "7",
+      "name": "スマスロスーパーブラックジャック",
+      "maker": "セブンリーグ",
+      "type": "スマスロ (AT機)",
+      "net_increase": "ボーナス約60枚～500枚",
+      "kikaiwari":"97.8% 〜 112.7%",
+      "image_url":"./imges/7.webp",
+      "features": "\n●リオチャンス・ボーナス・ストックタイムをループさせるゲーム性\n●通常時のBIG終了後はリオチャンス高確率へ\n●リオチャンスはボーナスの種類を自力で昇格させる●ボーナス中は（スーパー）ストックタイムを抽選"
+    },
+    {
+      "id": "8",
+      "name": "スマスロ 化物語",
+      "maker": "サミー",
+      "type": "スマスロ (AT機)",
+      "net_increase": "約2.7枚～5.0枚",
+      "kikaiwari":"97.9% 〜 112.1%",
+      "image_url": "./imges/8.webp",
+      "features": "\n●初代「パチスロ化物語」を再現＋進化させたスマスロ機\n●レア役やゲーム数消化で突入するCZ「解呪ノ儀」クリアでAT当選\n●AT「倖時間」は純増約2.7枚/G、初期枚数150枚の差枚数管理型\n●しのぶ倖時間中は保留が大幅優遇される「鬼倍倍チャンス」当選の大チャンス！\n●特定条件を満たすと突入する「怪逅の儀」クリアで上位ATへ\n●上位AT「超倖時間」は純増約5.0枚/Gで倍倍チャンスの性能も強化！"
+    },
+    {
+      "id": "9",
+      "name": "パチスロ かぐや様は告らせたい",
+      "maker": "SANKYO",
+      "type": "スマスロ (AT機)",
+      "net_increase": "ボーナス約83枚～490枚",
+      "kikaiwari":"97.7% 〜 114.9%",
+      "image_url": "./imges/9.webp",
+      "features": "\n通常時はチャンス目規定回数やゲーム数消化でCZを引き当て、ボーナスを目指すゲーム性。\n出玉増加のメイン契機はボーナスの1G連（BIG以上濃厚）で、ボーナス中はおもにチャンス目で1G連が抽選される。\n1G連の特化ゾーンやツラヌキ時などに移行する奇跡的相性（マリアージュ）モードなど、強力なトリガーも多数搭載されている。"
+    },
+    {
+      "id": "10",
+      "name": "スマスロ ゴッドイーター リザレクション",
+      "maker": "セブンリーグ",
+      "type": "スマスロ (AT機)",
+      "net_increase": "約9.0枚",
+      "kikaiwari":"97.9%~114.9%",
+      "image_url": "./imges/10.webp",
+      "features": "\n通常時はレア役によるCZやゲーム数消化を契機に「アラガミバースト」を目指すゲーム性で、CZは期待度約35%の「アラガミ防衛戦」と期待度約57%の「殲滅モード」の2種類が存在する。\n初当り時は純増約9.0枚/Gのストーリーパートから始まり、枚数獲得後は「アラガミ交戦」へ移行。\n「アラガミ交戦」は25G＋αのST型で、アラガミを撃破すればストーリーパートに突入。\nストーリーパートの枚数は「神を喰らえ」で決定するが、「金ノ咢」や「神機覚醒」発生で大量上乗せに期待できる。\nアラガミ撃破期待度がアップした上位STの「漆黒の捕喰者」、ループ率約90%の「神堕」など、大量出玉につながる強力トリガーにも注目！"
+    },
+    {
+      "id": "11",
+      "name": "スマスロ痛いのは嫌なので防御力に極振りしたいと思います。",
+      "maker": "サミー",
+      "type": "スマスロ (AT機)",
+      "net_increase": "ボーナス約100枚～250枚",
+      "kikaiwari":"97.9% 〜 113.0%",
+      "image_url": "./imges/11.webp",
+      "features": "人気作品「痛いのは嫌なので防御力に極振りしたいと思います。」がスマスロで登場。\n通常時はおもに高確率ZONE（CZ）からボーナスを目指し、ボーナス後に必ず突入する防御状態（CZの超高確的な状態）で高確率ZONEを引き当て、ボーナスとループさせるゲーム性。ボーナスが続くほど防御状態の継続期待度（防御力）がアップするところもポイントだ。"
+    },
+    {
+      "id": "12",
+      "name": "L戦国乙女5 業火を穿つ宿焔の双刃",
+      "maker": "オリンピア",
+      "type": "スマスロ (AT機)",
+      "net_increase": "約2.7枚～4.8枚",
+      "kikaiwari":"97.9% 〜 114.9%",
+      "image_url": "./imges/11.webp",
+      "features": "\n●通常時はゲーム数消化による規定周期到達でAT当選\n●巫女ポイント契機の乙女アタックも搭載\n●ATは純増約2.7枚/G、初期ゲーム数45G＋αのゲーム数管理型\n●規定ゲーム数消化やレア役などで抽選されるCZ勝利で出陣ボーナスに突入\n●CZ勝利時の一部で獲得する決戦ノ刻勝利で上位CZの権利を獲得\n●上位CZは成功期待度約70%（AT初当り時は約51%）\n●上位ATは純増約4.8枚/Gで初期ゲーム数100G＋αからスタートする"
+    },
+    {
+      "id": "13",
+      "name": "スマスロ モンスターハンターライズ",
+      "maker": "アデリオン  ",
+      "type": "スマスロ (AT機)",
+      "net_increase": "約2.7枚or4.0枚",
+      "kikaiwari":"97.9% 〜 114.3%",
+      "image_url": "./imges/13.webp",
+      "features": "\n●純増約2.7枚or4.0枚/GのAT機\n●初当り確率は約1/309（設定1）\n●ATはモンスター討伐で継続となるおなじみのゲーム性\n●上位AT・ツラヌキ要素など、スマスロならではの新規要素も満載"
+    },
+    {
+      "id": "14",
+      "name": "A-SLOT＋ この素晴らしい世界に祝福を！",
+      "maker": "サミー",
+      "type": "スマスロ (AT機)",
+      "net_increase": "ボーナス約50～250枚",
+      "kikaiwari":"98.5% 〜 110.4%",
+      "image_url": "./imges/14.webp",
+      "features": "\n「このすば」がリアルボーナス＋BIG後は必ずATに突入するGAT＋Rタイプで登場。\nボーナスはBIGとREGの2種類で、BIGは約250枚、REGは約50枚を獲得可能だ。AT「このすばタイム」は30G/セットで、BIG後だけでなく、REGの一部でも突入の可能性あり。\n通常時・AT中共通で、チャンス目を引くとプチRT状態に突入。RT突入時はボーナスに当選している可能性もあるの要注目だ。\nRT突入＝BIGの一部で突入する「真女神ボーナス！」、REGの一部で突入する「駄女神ぼーなす！」などATのロング継続に期待できる強力なトリガーも搭載している。"
+    },
+    {
+      "id": "15",
+      "name": "L ToLOVEるダークネス",
+      "maker": "オリンピアエステート",
+      "type": "スマスロ (AT機)",
+      "net_increase": "約6.6枚",
+      "kikaiwari":"98.0% 〜 110.1%",
+      "image_url": "./imges/15.webp",
+      "features": "\n大人気作品とのコラボで、『L ToLOVEるダークネス』が登場する。\n通常時はチャンス目で規定ポイントを貯めつつCZからSTを目指すゲーム性。ST中はチャンス目と共通ベルでボーナスを抽選して、見事ヒロインをすべて攻略（最大6連）で上位STへ突入する。"
+    },
+    {
+      "id": "16",
+      "name": "パチスロ からくりサーカス",
+      "maker": "SANKYO",
+      "type": "スマスロ (AT機)",
+      "net_increase": "2.8枚～7.6枚",
+      "kikaiwari":"97.5% 〜 114.9%",
+      "image_url": "./imges/16.webp",
+      "features": "\nレア役やゲーム数消化で突入するCZをクリアしてAT当選を目指すゲーム性。ゲーム数加算の特化ゾーンも存在する。\nATは差枚数管理型で、純増約2.8枚/Gの基本AT「からくりサーカス」と純増約7.6枚/Gの上位AT「超からくりサーカス」が存在。\n初当り時は基本ATから始まり、レア役やゲーム数消化で突入する「激情ジャッジ」を3回成功させると、「運命の一劇」の権利を獲得。\n「運命の一劇」はAT終了時に突入し、成功すれば上位AT確定だ。「激情ジャッジ」成功4回目以降は「運命連鎖」を抽選。「運命連鎖」成功時はAT終了を待たずに上位ATへ直行するので、「激情ジャッジ」の成功が大量出玉獲得へのカギとなる。"
+    },
+    {
+      "id": "17",
+      "name": "Lバキ 強くなりたくば喰らえ!!!",
+      "maker": "オリンピア",
+      "type": "スマスロ (AT機)",
+      "net_increase": "約2.3枚",
+      "kikaiwari":"97.5% 〜 110.4%",
+      "image_url": "./imges/17.webp",
+      "features": "\nオリンピアのスマスロ第一弾は「Lバキ 強くなりたくば喰らえ!!!」。\n通常時はレア役で点灯する二つのカウンターやゲーム数消化を契機にCZに突入。CZはベルの第1ナビがカギとなる期待度格上げ型で、最終的に対戦相手を撃破すればAT確定だ。\nAT 「オーガバトルボーナス」は純増約2.3枚/Gのループ率＋ストック管理型。\nバトル勝利で次のセットへ継続し、規定回数勝利で最強CZ「強くなりたくば喰らえ！」へ移行。鬼絵柄の色当てに挑戦し、絵柄が揃えば上位AT「バキバキアルティメット」へ昇格。「バキバキアルティメット」で10勝すると再び「強くなりたくば喰らえ！」へ移行するので、ロングループへの期待も高まる。"
+    },
+    {
+      "id": "18",
+      "name": "SLOTとある科学の超電磁砲",
+      "maker": "藤商事",
+      "type": "AT機",
+      "net_increase": "約2.7枚",
+      "kikaiwari":"97.5% 〜 111.5%",
+      "image_url": "./imges/18.webp",
+      "features": "\nパチンコでも好評の「とある科学の超電磁砲」がパチスロになって登場！\n通常時は1000pt獲得でCZに突入する周期抽選タイプで、CZ成功後は超電磁砲CHANCEへ移行。超電磁砲CHANCEに成功することで、メインATの「Eternal Party RUSH」へ突入する。\nATは純増約2.7枚/Gで、初期ゲーム数は特化ゾーンで決定。\n約1/6で当選するボーナスとATのループで出玉獲得を目指すゲーム性となっていて、ボーナスは基本の「とあるBONUS」のほか、ATゲーム数上乗せに期待できる上位パターンもあり。\nAT終了後に「ULTIMATE LOOP」が発動すれば、成功時の期待枚数は約1400枚!…"
+    },
+    {
+      "id": "19",
+      "name": "Re:ゼロから始める異世界生活 Apex Vacation",
+      "maker": "サボハニ",
+      "type": "RT機",
+      "net_increase": "ボーナス約109枚～251枚",
+      "kikaiwari":"98.0% 〜 105.4%",
+      "image_url": "./imges/19.webp",
+      "features": "\nボーナスタイプになって「Re:ゼロから始める異世界生活」が登場！\n3種類のBIGとREGが搭載されていて、もっとも獲得枚数の多いエミリアBIGは最大251枚を獲得できる代わりに、RTへの突入はナシ。レムBIGは最大219枚獲得後、必ず30GのRTへ突入。ラムBIGは最大175枚と枚数は少ないが、ゼロからばかんすコンプリート（無限RT）を賭けたマジ推しチャンスへ必ず突入する仕様だ。\nまた、REG後1G目に死に戻り演出が発生した場合も、無限RTへ突入する。各BIGの出現割合は設定によって変化するので、どのBIGを引けているかは出玉増加だけでなく設定推測をするうえでも重要なポイントと言えるだろう。…"
+    },
+    {
+      "id": "",
+      "name": "",
+      "maker": "",
+      "type": "",
+      "net_increase": "",
+      "kikaiwari":"",
+      "image_url": "./imges/8.webp",
+      "features": ""
+    },
+    {
+      "id": "",
+      "name": "",
+      "maker": "",
+      "type": "",
+      "net_increase": "",
+      "kikaiwari":"",
+      "image_url": "./imges/8.webp",
+      "features": ""
+    },
+    {
+      "id": "",
+      "name": "",
+      "maker": "",
+      "type": "",
+      "net_increase": "",
+      "kikaiwari":"",
+      "image_url": "./imges/8.webp",
+      "features": ""
+    },
+    {
+      "id": "",
+      "name": "",
+      "maker": "",
+      "type": "",
+      "net_increase": "",
+      "kikaiwari":"",
+      "image_url": "./imges/8.webp",
+      "features": ""
+    },
+    {
+      "id": "",
+      "name": "",
+      "maker": "",
+      "type": "",
+      "net_increase": "",
+      "kikaiwari":"",
+      "image_url": "./imges/8.webp",
+      "features": ""
+    },
+    {
+      "id": "",
+      "name": "",
+      "maker": "",
+      "type": "",
+      "net_increase": "",
+      "kikaiwari":"",
+      "image_url": "./imges/8.webp",
+      "features": ""
+    },
+    {
+      "id": "",
+      "name": "",
+      "maker": "",
+      "type": "",
+      "net_increase": "",
+      "kikaiwari":"",
+      "image_url": "./imges/8.webp",
+      "features": ""
+    },
+    {
+      "id": "",
+      "name": "",
+      "maker": "",
+      "type": "",
+      "net_increase": "",
+      "kikaiwari":"",
+      "image_url": "./imges/8.webp",
+      "features": ""
+    },
+    {
+      "id": "",
+      "name": "",
+      "maker": "",
+      "type": "",
+      "net_increase": "",
+      "kikaiwari":"",
+      "image_url": "./imges/8.webp",
+      "features": ""
+    },
+    {
+      "id": "",
+      "name": "",
+      "maker": "",
+      "type": "",
+      "net_increase": "",
+      "kikaiwari":"",
+      "image_url": "./imges/8.webp",
+      "features": ""
+    },
+    {
+      "id": "",
+      "name": "",
+      "maker": "",
+      "type": "",
+      "net_increase": "",
+      "kikaiwari":"",
+      "image_url": "./imges/8.webp",
+      "features": ""
+    },
+    {
+      "id": "",
+      "name": "",
+      "maker": "",
+      "type": "",
+      "net_increase": "",
+      "kikaiwari":"",
+      "image_url": "./imges/8.webp",
+      "features": ""
+    },
+    {
+      "id": "",
+      "name": "",
+      "maker": "",
+      "type": "",
+      "net_increase": "",
+      "kikaiwari":"",
+      "image_url": "./imges/8.webp",
+      "features": ""
+    },
+    {
+      "id": "",
+      "name": "",
+      "maker": "",
+      "type": "",
+      "net_increase": "",
+      "kikaiwari":"",
+      "image_url": "./imges/8.webp",
+      "features": ""
+    },
+    {
+      "id": "",
+      "name": "",
+      "maker": "",
+      "type": "",
+      "net_increase": "",
+      "kikaiwari":"",
+      "image_url": "./imges/8.webp",
+      "features": ""
+    },
+    {
+      "id": "",
+      "name": "",
+      "maker": "",
+      "type": "",
+      "net_increase": "",
+      "kikaiwari":"",
+      "image_url": "./imges/8.webp",
+      "features": ""
+    },
+    {
+      "id": "",
+      "name": "",
+      "maker": "",
+      "type": "",
+      "net_increase": "",
+      "kikaiwari":"",
+      "image_url": "./imges/8.webp",
+      "features": ""
+    },
+    {
+      "id": "",
+      "name": "",
+      "maker": "",
+      "type": "",
+      "net_increase": "",
+      "kikaiwari":"",
+      "image_url": "./imges/8.webp",
+      "features": ""
+    },
+    {
+      "id": "",
+      "name": "",
+      "maker": "",
+      "type": "",
+      "net_increase": "",
+      "kikaiwari":"",
+      "image_url": "./imges/8.webp",
+      "features": ""
+    },
+    {
+      "id": "",
+      "name": "",
+      "maker": "",
+      "type": "",
+      "net_increase": "",
+      "kikaiwari":"",
+      "image_url": "./imges/8.webp",
+      "features": ""
+    },
+
+    {
+      "id": "",
+      "name": "",
+      "maker": "",
+      "type": "",
+      "net_increase": "",
+      "kikaiwari":"",
+      "image_url": "./imges/8.webp",
+      "features": ""
+    },
+    {
+      "id": "",
+      "name": "",
+      "maker": "",
+      "type": "",
+      "net_increase": "",
+      "kikaiwari":"",
+      "image_url": "./imges/8.webp",
+      "features": ""
+    },
+    {
+      "id": "",
+      "name": "",
+      "maker": "",
+      "type": "",
+      "net_increase": "",
+      "kikaiwari":"",
+      "image_url": "./imges/8.webp",
+      "features": ""
+    },
+    {
+      "id": "",
+      "name": "",
+      "maker": "",
+      "type": "",
+      "net_increase": "",
+      "kikaiwari":"",
+      "image_url": "./imges/8.webp",
+      "features": ""
+    },
+    {
+      "id": "",
+      "name": "",
+      "maker": "",
+      "type": "",
+      "net_increase": "",
+      "kikaiwari":"",
+      "image_url": "./imges/8.webp",
+      "features": ""
+    },
+    {
+      "id": "",
+      "name": "",
+      "maker": "",
+      "type": "",
+      "net_increase": "",
+      "kikaiwari":"",
+      "image_url": "./imges/8.webp",
+      "features": ""
+    },
+    {
+      "id": "",
+      "name": "",
+      "maker": "",
+      "type": "",
+      "net_increase": "",
+      "kikaiwari":"",
+      "image_url": "./imges/8.webp",
+      "features": ""
+    },
+    {
+      "id": "",
+      "name": "",
+      "maker": "",
+      "type": "",
+      "net_increase": "",
+      "kikaiwari":"",
+      "image_url": "./imges/8.webp",
+      "features": ""
+    },
+    {
+      "id": "",
+      "name": "",
+      "maker": "",
+      "type": "",
+      "net_increase": "",
+      "kikaiwari":"",
+      "image_url": "./imges/8.webp",
+      "features": ""
+    }
+]
+}
